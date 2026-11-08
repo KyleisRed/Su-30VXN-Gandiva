@@ -9,10 +9,15 @@ This mod brings the Su-30VXN into Nuclear Option.
 
 # Credits
 GryphusOne for the model.
+
 Aryx for canards script.
+
 Faith for the base liveries.
+
 Neutral Observer Jr. for emotional support.
+
 And beta testers for beta testing
+
 
 <3
 
