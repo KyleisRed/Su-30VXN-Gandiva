@@ -7,7 +7,7 @@ This mod brings the Su-30VXN into Nuclear Option.
 2. Download the latest version from the Releases tab.
 3. Place the .dll file inside your `NuclearOption/BepInEx/plugins` folder with Blueprinter installed.
 
-4. # Credits
+# Credits
 GryphusOne for the model.
 Aryx for canards script.
 Faith for the base liveries.
