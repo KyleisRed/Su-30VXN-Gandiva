@@ -14,7 +14,7 @@ Aryx for canards script.
 
 Faith for the base liveries.
 
-Neutral Observer Jr. for emotional support.
+Dani / Neutral Observer Jr. for the custom missiles and emotional support.
 
 And beta testers for beta testing
 
